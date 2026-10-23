@@ -1,2 +1,2 @@
-# Atividades-Grau-T-cnico
+# Atividades-Grau-T
 Pasta de atividades
